@@ -1,4 +1,8 @@
-## 	Learning Gaussian Instance Segmentation in Point Clouds
+#	Learning Gaussian Instance Segmentation in Point Clouds
+
+## Introduction
+![Arch Image](https://github.com/LiuShihHung/GICN/blob/master/figs/architecture.png)
+
 Shih-Hung Liu, Shang Yi Yu, Shao-Chi Wu, Hwann-Tzong Chen, Tyng-Luh Liu
 ### (1) Setup
 ubuntu 16.04 + cuda 10.0
