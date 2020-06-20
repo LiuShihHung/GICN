@@ -17,3 +17,13 @@ open3d-python 0.3.0
 S3DIS: we use the same data released by [JSIS3D](https://github.com/pqhieu/jsis3d).
 
 ScnaNet: you can download the ScanNet data in [ScanNet](http://www.scan-net.org).
+
+
+### (3) Train/test
+python train.py
+
+python eval.py
+
+### (4) Quantitative Results on ScanNet
+
+![Arch Image](https://github.com/LiuShihHung/GICN/figs/fig_ins_scannet.png)
