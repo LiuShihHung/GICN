@@ -26,4 +26,4 @@ python eval.py
 
 ### (4) Quantitative Results on ScanNet
 
-![Arch Image](https://github.com/LiuShihHung/GICN/figs/fig_ins_scannet.png)
+![Arch Image](https://github.com/LiuShihHung/GICN/blob/master/figs/fig_ins_scannet.png)
