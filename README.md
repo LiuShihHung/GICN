@@ -57,9 +57,6 @@ The environment is based on [facebookresearch/SparseConvNet](https://github.com/
 
 The pretrained GICN on S3dis dataset is in ./experiment 
 
-
-The pretrained GICN on S3dis dataset is in ./experiment 
-
 Evaluation on Area5:
 
 -precision : 0.6348
